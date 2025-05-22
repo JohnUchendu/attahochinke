@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import React from "react";
 
 export const metadata: Metadata = {
-  title: "Aviation law service | K.K. Ubani & Co. ",
+  title: "Aviation law service | Attah Ochinke and Co. ",
   description:
-    "Expert aviation legal services in Nigeria. Navigate regulations, mergers, acquisitions, and compliance with K.K. Ubani & Co.",
+    "Expert aviation legal services in Nigeria. Navigate regulations, mergers, acquisitions, and compliance with Attah Ochinke and Co.",
 };
 
 const AviationLaw = () => {

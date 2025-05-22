@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import React from "react";
 
 export const metadata: Metadata = {
-  title: "Corporate Law Services | K.K. Ubani & Co.",
+  title: "Corporate Law Services | Attah Ochinke and Co.",
   description:
-    "Expert corporate legal services in Nigeria. Navigate regulations, mergers, acquisitions, and compliance with K.K. Ubani & Co.",
+    "Expert corporate legal services in Nigeria. Navigate regulations, mergers, acquisitions, and compliance with Attah Ochinke and Co.",
 };
 
 const CorporateLaw = () => {
@@ -18,7 +18,7 @@ const CorporateLaw = () => {
           Expert Corporate Legal Services in Nigeria
         </h2>
         <p className="mt-2 text-gray-600">
-          K.K. Ubani & Co. provides comprehensive corporate legal services,
+          Attah Ochinke and Co. provides comprehensive corporate legal services,
           ensuring businesses operate within the legal framework while
           optimizing their operations. We help clients navigate complex
           regulations, mergers, acquisitions, and compliance matters. Our legal

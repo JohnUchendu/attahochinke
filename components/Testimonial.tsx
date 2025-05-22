@@ -3,7 +3,7 @@ import React from "react";
 const testimonials = [
   {
     quote:
-      "We have been working with  Attah Ochinke and Co. for several years now, and we are continually impressed with their professionalism and expertise in the legal field. Their dedication to providing top-notch legal services has been instrumental in helping us navigate complex legal matters. We highly recommend K. K. Ubani & Co. to any organization in need of exceptional legal representation.",
+      "We have been working with  Attah Ochinke and Co. for several years now, and we are continually impressed with their professionalism and expertise in the legal field. Their dedication to providing top-notch legal services has been instrumental in helping us navigate complex legal matters. We highly recommend Attah Ochinke and Co. to any organization in need of exceptional legal representation.",
 
     company: "ECOBANK Nigeria Limited:",
   },
@@ -15,7 +15,7 @@ const testimonials = [
   },
   {
     quote:
-      " Attah Ochinke and Co. has consistently delivered exceptional legal services to  Industrial Training Fund. Their team's expertise, professionalism, and commitment to excellence have made them a trusted legal partner for our organizations. We are grateful for their guidance and support, and we highly recommend K. K. Ubani & Co. to anyone in need of expert legal representation.",
+      " Attah Ochinke and Co. has consistently delivered exceptional legal services to  Industrial Training Fund. Their team's expertise, professionalism, and commitment to excellence have made them a trusted legal partner for our organizations. We are grateful for their guidance and support, and we highly recommend Attah Ochinke and Co. to anyone in need of expert legal representation.",
 
     company: "Industrial Training Fund.",
   },

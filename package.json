@@ -1,5 +1,5 @@
 {
-  "name": "kkubaniandco",
+  "name": "attah ochinke and co",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.1.2",
+    "@types/react-icons": "^3.0.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "embla-carousel-react": "^8.5.2",
@@ -18,6 +19,7 @@
     "next": "15.2.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-icons": "^5.5.0",
     "react-vertical-timeline-component": "^3.5.3",
     "tailwind-merge": "^3.0.2",
     "tailwindcss-animate": "^1.0.7"

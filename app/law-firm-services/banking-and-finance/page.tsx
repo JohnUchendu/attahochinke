@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import React from "react";
 
 export const metadata: Metadata = {
-  title: "Banking and finance law service | K.K. Ubani & Co. ",
+  title: "Banking and finance law service | Attah Ochinke and Co. ",
   description:
-    "Expert banking and finance legal services in Nigeria. Navigate regulations, mergers, acquisitions, and compliance with K.K. Ubani & Co.",
+    "Expert banking and finance legal services in Nigeria. Navigate regulations, mergers, acquisitions, and compliance with Attah Ochinke and Co.",
 };
 
 const BankingAndFinance = () => {
@@ -18,7 +18,7 @@ const BankingAndFinance = () => {
           Comprehensive Legal Support for Financial Transactions
         </h2>
         <p className="mt-2 text-gray-600">
-          K.K. Ubani & Co. provides expert legal services for banking, financial
+          Attah Ochinke and Co. provides expert legal services for banking, financial
           transactions, and investment management, ensuring compliance with
           regulatory requirements and industry best practices.
         </p>

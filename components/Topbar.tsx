@@ -42,7 +42,7 @@ const Topbar = () => {
         </div>
         <div className="flex items-center gap-2">
           <Mail size={18} />
-          {/* <span>info@kkubaniandco.com</span> */}
+          <span>info@attahochinkeandco.vercel.app</span>
         </div>
       </div>
     </div>

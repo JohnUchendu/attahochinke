@@ -4,7 +4,8 @@ import "./globals.css";
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
 import Topbar from "@/components/Topbar";
-import CallWidget from "@/components/CallWidget";
+import WhatsAppFloatingChat from "@/components/WhatsappFloatingChat";
+
 
 
 
@@ -39,7 +40,7 @@ export default function RootLayout({
       <body
         className={garamond.variable}
       >
-        <CallWidget/>
+        <WhatsAppFloatingChat/>
         <Topbar/>
         <Navbar/>
         {children}
